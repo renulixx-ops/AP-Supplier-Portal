@@ -1,0 +1,6 @@
+{
+  "name": "Supplier / AP Portal - Treasury & SAP B1 Demo",
+  "description": "Interactive clickable workshop demo visualizing the future-state payment process alongside SAP Business One for Treasury stakeholders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
